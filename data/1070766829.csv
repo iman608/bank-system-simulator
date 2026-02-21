@@ -1,0 +1,17 @@
+# user profile
+_Field,Value_
+Name,ali nn
+Pass,a1234
+Phone number,09044380778
+ID number,1070766829
+
+
+# Account Info
+Account number,437233
+Currency,USD
+Balance,10.000000
+
+
+# Transaction History
+Date,Time,type,Account Number,Amount
+2025-08-10,17:09:48,Deposit,811677,10
