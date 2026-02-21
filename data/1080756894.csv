@@ -1,0 +1,23 @@
+# user profile
+_Field,Value_
+Name,iman
+Pass,7869f
+Phone number,09134686705
+ID number,1080756894
+
+
+# Account Info
+Account number,811677
+Currency,USD
+Balance,230.000000
+
+
+# Transaction HistoryDate,Time,type,Account Number,Amount
+
+2025-08-10,15:01:11,IncreaseBalance,811677,120
+2025-08-10,15:01:21,IncreaseBalance,811677,10
+2025-08-10,17:09:48,Withdrawal,437233,10
+2025-08-11,21:46:13,Deposit,646691,10
+2025-08-11,21:47:49,Withdrawal,646691,10
+2025-08-12,13:23:52,IncreaseBalance,811677,120
+2025-08-12,13:24:39,Withdrawal,646691,10
