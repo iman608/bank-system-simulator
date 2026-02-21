@@ -1,0 +1,29 @@
+# Executables
+*.exe
+*.out
+*.app
+*.o
+*.obj
+bank
+
+# Build folders
+build/
+bin/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# CLion
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# Temporary files
+*.log
+*.tmp
