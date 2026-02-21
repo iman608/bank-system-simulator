@@ -1,5 +1,7 @@
 # Bank System Simulator (C++)
 
+[![Build](https://github.com/iman608/bank-system-simulator/actions/workflows/build.yml/badge.svg)](https://github.com/iman608/bank-system-simulator/actions/workflows/build.yml)
+
 A university project that simulates a simple console-based banking system written in C++.  
 The program uses file-based I/O (CSV files) to store and manage account information and transaction history.
 
