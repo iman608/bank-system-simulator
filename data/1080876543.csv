@@ -1,0 +1,20 @@
+# user profile
+_Field,Value_
+Name,masih gaa
+Pass,8585s
+Phone number,09378418765
+ID number,1080876543
+
+
+# Account Info
+Account number,646691
+Currency,USD
+Balance,22.000000
+
+
+# Transaction History
+Date,Time,type,Account Number,Amount
+2025-08-11,21:43:54,IncreaseBalance,646691,12
+2025-08-11,21:46:13,Withdrawal,811677,10
+2025-08-11,21:47:49,Deposit,811677,10
+2025-08-12,13:24:39,Deposit,811677,10
